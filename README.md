@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyl508
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python programing 
